@@ -1,5 +1,33 @@
 # Programming Learning Path
 
+<p align="center">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30">
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems%20Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="30">
+</a>
+
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+  <img src="https://img.shields.io/badge/C-Low%20Level%20Development-A8B9CC?style=flat-square&logo=c&logoColor=black" height="30">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Programming%20Projects-success?style=flat-square" height="30">
+</a>
+
+</p>
+
 Programming is the thread that connects industries together. Whether you want to build tools for healthcare, design financial applications, develop enterprise software, or create the next successful game, programming provides the foundation to transform ideas into reality.
 
 This learning path is designed to build strong programming fundamentals through multiple industry-relevant languages. Each course focuses on practical skills, problem-solving techniques, software development principles, and hands-on projects that reinforce real-world programming concepts.
