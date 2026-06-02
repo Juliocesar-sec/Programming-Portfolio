@@ -22,6 +22,8 @@
 
 > A structured programming learning path covering Python, JavaScript, C++, and C. Focused on software development fundamentals, problem solving, algorithmic thinking, and hands-on project development.
 
+![Image](https://github.com/Juliocesar-sec/Programming/blob/ceece1af4c9f9912d78786346a14bd2769e476dd/Image.png)
+
 # About This Directory
 
 Programming is the foundation of modern technology. From web applications and automation scripts to operating systems and enterprise software, programming skills enable developers to create solutions across virtually every industry.
