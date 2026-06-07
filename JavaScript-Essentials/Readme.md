@@ -19,14 +19,15 @@ JavaScript powers modern web applications and interactive user experiences. This
 | Debugging    | Error handling and troubleshooting |
 
 
-Skills Developed
+## Skills Developed
 
     Front-end development fundamentals
     Interactive application design
     Logical problem-solving
     Dynamic data manipulation
 
-Final Project
+## Final Project
+
 Interactive Task Manager
 
 A browser-based application capable of:
