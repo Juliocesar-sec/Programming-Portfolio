@@ -21,10 +21,10 @@ JavaScript powers modern web applications and interactive user experiences. This
 
 ## Skills Developed
 
-    Front-end development fundamentals
-    Interactive application design
-    Logical problem-solving
-    Dynamic data manipulation
+* Front-end development fundamentals
+* Interactive application design
+* Logical problem-solving
+* Dynamic data manipulation
 
 ## Final Project
 
@@ -32,8 +32,8 @@ Interactive Task Manager
 
 A browser-based application capable of:
 
-    Creating tasks
-    Editing tasks
-    Removing tasks
-    Tracking completion status
-    Filtering active and completed tasks
+* Creating tasks
+* Editing tasks
+* Removing tasks
+* Tracking completion status
+* Filtering active and completed tasks
