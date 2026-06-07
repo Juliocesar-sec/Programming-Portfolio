@@ -1,8 +1,9 @@
 
-Course Description
+## Course Description
 
 JavaScript powers modern web applications and interactive user experiences. This course introduces the foundations of web programming and dynamic application development.
 Topics Covered
+
 Category 	Topics
 Fundamentals 	JavaScript syntax and execution
 Variables 	Data storage and manipulation
