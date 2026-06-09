@@ -1,9 +1,9 @@
 
 C++ Essentials
-File
+
 
 Cpp-Essentials
-Course Description
+
 
 C++ is widely used in performance-critical applications including finance, gaming, networking, embedded systems, and software infrastructure. This course introduces both programming fundamentals and low-level development concepts.
 Topics Covered
