@@ -1,8 +1,8 @@
-Cpp-Essentials
+## Cpp-Essentials
 
 C++ is widely used in performance-critical applications including finance, gaming, networking, embedded systems, and software infrastructure. This course introduces both programming fundamentals and low-level development concepts.
 
-Topics Covered
+## Topics Covered
 
 
 | Category          | Topics                              |
@@ -18,15 +18,16 @@ Topics Covered
 
 
 
-Skills Developed
+## Skills Developed
 
     Low-level programming understanding
     Memory management awareness
     Structured software development
     Performance-oriented thinking
 
-Final Project
-Student Management System
+## Final Project
+
+### Student Management System
 
 A console-based application capable of:
 
