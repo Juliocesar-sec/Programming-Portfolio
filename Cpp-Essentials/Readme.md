@@ -20,10 +20,10 @@ C++ is widely used in performance-critical applications including finance, gamin
 
 ## Skills Developed
 
-    Low-level programming understanding
-    Memory management awareness
-    Structured software development
-    Performance-oriented thinking
+* Low-level programming understanding
+* Memory management awareness
+* Structured software development
+* Performance-oriented thinking
 
 ## Final Project
 
@@ -31,8 +31,9 @@ C++ is widely used in performance-critical applications including finance, gamin
 
 A console-based application capable of:
 
-    Registering students
-    Managing records
-    Calculating grades
-    Searching student information
-    Generating academic reports
+    
+* Registering students
+* Managing records
+* Calculating grades
+* Searching student information
+* Generating academic reports
